@@ -1,0 +1,9 @@
+- opcode
+- hex integer literal
+- integer literal
+- eof
+- label
+- labelref
+- proc
+- end
+- extlabel
