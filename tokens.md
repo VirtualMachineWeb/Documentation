@@ -1,4 +1,3 @@
-- opcode
 - hex integer literal
 - integer literal
 - eof
@@ -7,3 +6,17 @@
 - proc
 - end
 - extlabel
+
+- jmp
+- jmps
+- jmp_true
+- cmp_u8
+- spi
+- spd
+- push_u8
+- push_u64
+- pop_u8
+- set_u8
+- cpl_u8
+- cpg_u8
+- halt
