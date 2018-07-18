@@ -5,7 +5,7 @@
 - labelref
 - proc
 - end
-- extlabel
+- extprocref // reference to external procedure
 
 - jmp
 - jmps
